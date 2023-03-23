@@ -21,25 +21,11 @@ body {
 	color: #333;
 }
 
-@keyframes doprava {
-	0%   {margin-left: 0px}
-	100% {margin-left: 300px}
-}
-
-@keyframes doleva {
-	0%   {margin-left: 300px}
-	100% {margin-left: 0px}
-}
-
 form {
 	max-width: 100%;
 	background-color: rgb(242, 242, 242);
 	padding: 2%;
 	border-radius: 1em;
-}
-
-p:first-child {
-	margin-top: 5%;
 }
 
 input,
@@ -53,7 +39,7 @@ button {
 }
 
 button {
-	background-color: #436dd1;
+	background-color: #168b11;
 	color: #ffffff;
 	border-color: transparent;
 }
